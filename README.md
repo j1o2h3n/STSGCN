@@ -4,7 +4,7 @@ PyTorch implementation of Spatial-Temporal Synchronous Graph Convolutional Netwo
 
 『Code v1.0 version completed.....』
 
-The completion time is rather short. You are welcome to point out the code error in the comment area.
+The completion time is relatively short, and the dataset only uses PEMS08. You are welcome to point out the code error in the comment area.
 
 You can refer to the [mxnet code](https://github.com/Davidham3/STSGCN) provided by the author of the original paper.
 
