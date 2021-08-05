@@ -2,11 +2,7 @@
 
 PyTorch implementation of Spatial-Temporal Synchronous Graph Convolutional Networks (STSGCN) in the following AAAI2020 paper "Spatial-Temporal Synchronous Graph Convolutional Networks: A New Framework for Spatial-Temporal Network Data Forecasting".
 
-『Under development..... 』
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
-『Code v1.0 version completed』
+『Code v1.0 version completed.....』
 
 The completion time is rather short. You are welcome to point out the code error in the comment area.
 
